@@ -1,3 +1,5 @@
+//just add translator dependency
+
 import 'package:flutter/material.dart';
 import 'package:translator/translator.dart';
 
